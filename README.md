@@ -9,10 +9,10 @@ Data: Tweet data from “We Rate Dogs” on Twitter along with a supplied image 
 Project Tasks:
 
 - Gather data from three different kinds of sources (downloaded file, URL, and the Twitter API) in at least three different file formats (CSV, TSV, and TXT).
-- Assess and clean the Twitter data using the “Define-Code-Test” framework, addressing at least 8 data quality issues and at least 2 tidiness issues, and saving the result as a cleaned and tidied master dataset.
+- In a [Jupyter notebook](https://brianallan.github.io/Data-Wrangling-Twitter-We-Rate-Dogs/), assess and clean the Twitter data using the “Define-Code-Test” framework, addressing at least 8 data quality issues and at least 2 tidiness issues, and saving the result as a cleaned and tidied master dataset.
 - Analyze and visualize the data to produce at least three separate insights.
-- Create a data wrangling report.
-- Create an activity report, summarizing the results of the analysis and supported by visualizations.
+- Create a [data wrangling report](https://brianallan.github.io/Data-Wrangling-Twitter-We-Rate-Dogs/wrangle_report.html).
+- Create an [activity report](https://brianallan.github.io/Data-Wrangling-Twitter-We-Rate-Dogs/act_report.html), summarizing the results of the analysis and supported by visualizations.
 
 
 
